@@ -1,2 +1,2 @@
-# python_learning
-Basic python skills learnt in udemy
+# Git_Practice
+Learning git in udemy
