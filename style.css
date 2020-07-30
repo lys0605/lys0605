@@ -13,6 +13,11 @@ html {
 h1 {
   font-size: 3rem;
   color: #e2dbdb;
+  transition: transform 1s;
+}
+
+h1:hover {
+  transform: scale(1.5,1.5);
 }
 
 hr {
