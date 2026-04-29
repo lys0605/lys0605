@@ -6,6 +6,7 @@ I can speak fluent **Cantonese**, **Mandarin**, **English** and **Japanese**; wh
 I am learning **Julia**, **Python** and **JavaScript**.
 
 Source code for paper that is ready on arXiv will be turned into open, where currently we have
-- Chirality-probe
+- chirality_probe_CrI3_canted
+
 
 Other open repository is for learning purpose but irrelevant for my research.
